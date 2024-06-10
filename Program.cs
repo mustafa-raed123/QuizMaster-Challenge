@@ -14,7 +14,7 @@ namespace QuizMaster_Challenge
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the quiz");
+            Console.WriteLine("Welcome");
             Console.WriteLine("for each question you have 10 seconds ");
             Console.WriteLine("Press Enter to start the quiz");
             Console.ReadKey();
